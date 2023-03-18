@@ -34,7 +34,7 @@ gem "stimulus-rails"
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 
- # devise
+# devise
   gem 'devise', '~> 4.2'
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
